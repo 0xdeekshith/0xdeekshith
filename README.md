@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deekshith
-- 👀 I’m interested in ...Blockchainspace
+- 👀 I’m interested in Blockchainspace
 - 🌱 I’m currently learning blockchain security (smart contracts auditing)
-- 💞️ I’m looking to collaborate on Dapps
+- 💞️ I’m looking to collaborate on dApps
 - 📫 How to reach me on twitter @deekshithrao07
 
 <!---
